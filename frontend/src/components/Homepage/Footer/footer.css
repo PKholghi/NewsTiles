@@ -1,0 +1,24 @@
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #c4c4c4;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100% !important;
+  align-content: center;
+  display: inline-block;
+}
+
+.App-logo {
+  max-width: 64px;
+  max-height: 64px;
+  height: 10vw;
+  width: 10vw;
+}
+.App-logo {
+  max-width: 64px;
+  max-height: 64px;
+  height: 10vw;
+  width: 10vw;
+}
